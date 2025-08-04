@@ -70,3 +70,9 @@ Load the client folder as an unpacked extension in chrome://extensions
 
 Open websites and view dashboard.html to see your productivity stats!
 
+
+output:-
+
+<img width="1901" height="1005" alt="Image" src="https://github.com/user-attachments/assets/6167f13f-ffe0-486a-aa1c-4c38f262bc86" />
+
+
